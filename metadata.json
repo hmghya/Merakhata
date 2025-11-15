@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Khata",
+  "description": "A comprehensive mobile-first application for managing customers, suppliers, daily transactions (Day Book), and inventory (Stock Book). It offers features for tracking accounts, stock levels, and generating reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "short_name": "Mayra Khata",
+  "name": "Mayra Khata - Business Manager",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#14B8A6",
+  "background_color": "#F1F5F9"
+}
